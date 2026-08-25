@@ -1,7 +1,8 @@
 
-# Hi there 👋 I'm Manoj  
+🚀 DevOps & Cloud Engineer | 5+ Years in QA Automation
 
-💻 5 years of experience in Software Testing & DevOps  
-🎓 Pursuing Masters in Germany (UE,Potsdam)  
-🛠 Skilled in: Git, Docker, Kubernetes, Jenkins,Ansible, Terraform,ELK, Linux, AWS,Potsman,Java. 
-📚 Currently learning: Advanced DevOps & German (A1)  
+☁️ AWS • ☸️ Kubernetes • 🐳 Docker • Terraform
+⚙️ CI/CD • Jenkins • GitHub Actions • Ansible
+📊 Prometheus • Grafana • Linux • Python
+
+🔧 Building scalable, automated & production-ready systems
