@@ -12,7 +12,7 @@
 - 🚀 Transitioning from **Senior QA Automation → DevOps & Cloud Engineering**
 - ☁️ Hands-on experience with **AWS & cloud infrastructure**
 - 🐳 Building and deploying applications using **Docker & Kubernetes**
-- ⚙️ Designing **CI/CD pipelines** with Jenkins & GitHub Actions
+- ⚙️ Designing **CI/CD pipelines** with **Jenkins & GitHub Actions**
 - 🏗️ Managing infrastructure using **Terraform & Ansible**
 - 📊 Implementing monitoring with **Prometheus & Grafana**
 - 🐧 Strong interest in **Linux, networking, automation & production troubleshooting**
