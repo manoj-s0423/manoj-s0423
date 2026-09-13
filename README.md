@@ -3,7 +3,7 @@
 
 ### 🚀 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-> QA Automation Engineer with **5+ years of experience**, currently building expertise in **DevOps, Cloud Engineering, Kubernetes, Infrastructure as Code, and CI/CD automation**.
+> Senior QA Automation Engineer with **5+ years of experience**, currently building expertise in **DevOps, Cloud Engineering, Kubernetes, Infrastructure as Code, and CI/CD automation**.
 
 ---
 
