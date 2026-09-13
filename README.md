@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Transitioning from **QA Automation → DevOps & Cloud Engineering**
+- 🚀 Transitioning from **Senior QA Automation → DevOps & Cloud Engineering**
 - ☁️ Hands-on experience with **AWS & cloud infrastructure**
 - 🐳 Building and deploying applications using **Docker & Kubernetes**
 - ⚙️ Designing **CI/CD pipelines** with Jenkins & GitHub Actions
